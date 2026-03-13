@@ -25,3 +25,5 @@ Alıcı Belirleme: Receiver ID kısmına "1" (kendi hesabımız) yazılmıştır
 Tutar: Transfer tutarı olarak "888" birim girdik ve transfer işlemi gerçekleşti.
 
 Ekranda gördüğümüz banka hesap numarası sorumuzun çözümü oluyor.
+
+
